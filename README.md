@@ -1,3 +1,11 @@
+# Package is not written by me
+
+[Original Package is here](https://github.com/doublesymmetry/react-native-track-player)
+
+## This repo makes it possible for this library to run with the new architecture and with React Native 0.76.5
+
+### It includes this [Pull Request](https://github.com/doublesymmetry/react-native-track-player/pull/2290)
+
 <img src="https:/rntp.dev/img/optimized-logo.svg" width="300" />
 
 [![downloads](https://img.shields.io/npm/dw/react-native-track-player.svg)](https://www.npmjs.com/package/react-native-track-player)
